@@ -36,4 +36,3 @@ alert(`voce acertou o numero secreto ${numeroSecreto} com ${tentativas} ${palavr
     alert(`voce acertou o numero secreto ${numeroSecreto} com ${tentativas} tentativa`);
 }
 */
-
